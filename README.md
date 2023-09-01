@@ -12,7 +12,7 @@ python -m venv env
 ```
 Activate virtual env
 ```
-venv_name\Scripts\activate
+env\Scripts\activate
 ```
 Install dependencies
 ```
