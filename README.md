@@ -4,8 +4,8 @@ All datasets used in this project were obtained from Kaggle
 [JSON file with YouTube video categories](https://www.kaggle.com/datasets/datasnaek/youtube-new?select=US_category_id.json)  
 [TikTok Dataset](https://www.kaggle.com/datasets/erikvdven/tiktok-trending-december-2020)
 
-Clone the repo
-Download datasets and extract them into project directory
+Clone the repo  
+Download datasets and extract them into project directory  
 Set up virtual environment
 ```
 python -m venv env
